@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VivzApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="flags">
+        <item>India</item>
+        <item>United States Of America</item>
+        <item>Philippines</item>
+        <item>Pakistan</item>
+        <item>Saudi Arabia</item>
+        <item>Turkey</item>
+        <item>Spain</item>
+        <item>Norway</item>
+        <item>Italy</item>
+        <item>Germany</item>
+    </string-array>
+
+    <string name="title_activity_display_details">Guess What?</string>
+
+</resources>
